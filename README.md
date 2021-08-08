@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @blessingokpala
-- 👀 I’m interested in Frontend Web development, UX design.
-- 🌱 I’m currently learning Javascript, react.js
+- 👀 I’m interested in UI design, UX design, Frontend Web development.
 - 💞️ I’m looking to collaborate on projects
 
 
